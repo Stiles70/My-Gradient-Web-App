@@ -1,0 +1,39 @@
+#main {
+    min-height: 100%;
+    width: max-content;
+    margin-top: 200px;
+}
+
+#btn {
+    width: 340px;
+    /* padding: 10px 10px; */
+    background-color: plum;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#answer {
+    width: 340px;
+    height: 50px;
+    border: 3px solid plum;
+    font-weight: 600;
+    border-radius: 5px;
+    background-color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#input {
+    max-width: 340px;
+}
+
+#grading {
+    color: plum;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-image: url(images/free-photo-of-young-girl-smiling-on-a-swing.jpeg);
+    background-size: auto;
+}
